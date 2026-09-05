@@ -23,17 +23,17 @@
 
 ### 📌 Featured Projects
 
-- 🖨️ **[PrinterLand](https://github.com/kourosh944/PrinterLand)** — Modern 3D Printing Studio website built with HTML, CSS & JavaScript.
-- 🏭 **[Maniro_Project](https://github.com/kourosh944/Maniro_Project)** — Corporate website for Maniro Engineering (Power Transmission • Electrical Towers • EPC Projects), with a Django backend coming soon.
-- 🧾 **[AbanHesab-Project](https://github.com/kourosh944/AbanHesab-Project)** — Bilingual (FA/EN) corporate website for Aban Hesab Audit Institute, built with HTML, CSS, JavaScript & JSON.
+- 🖨️ **[PrinterLand](https://github.com/kouroshA2/PrinterLand)** — Modern 3D Printing Studio website built with HTML, CSS & JavaScript.
+- 🏭 **[Maniro_Project](https://github.com/kouroshA2/Maniro_Project)** — Corporate website for Maniro Engineering (Power Transmission • Electrical Towers • EPC Projects), with a Django backend coming soon.
+- 🧾 **[AbanHesab-Project](https://github.com/kouroshA2/AbanHesab-Project)** — Bilingual (FA/EN) corporate website for Aban Hesab Audit Institute, built with HTML, CSS, JavaScript & JSON.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=kourosh944&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kourosh944&layout=compact" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=kouroshA2&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kouroshA2&layout=compact" />
 </p>
 
 ---
