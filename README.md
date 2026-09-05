@@ -32,8 +32,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kourosh944&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kourosh944&layout=compact" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=kourosh944&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kourosh944&layout=compact" />
 </p>
 
 ---
