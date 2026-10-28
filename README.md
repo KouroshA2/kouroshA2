@@ -29,15 +29,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=kouroshA2&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kouroshA2&layout=compact" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="left">
